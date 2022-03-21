@@ -1,2 +1,2 @@
-# archive.2
+# archive
 hi!
